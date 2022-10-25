@@ -19,6 +19,10 @@ export const Container = styled.header`
   align-items: center;
   justify-content: space-between;
 
+  @media screen and (max-width: 768px) {
+    padding: 0 24px;
+  }
+
   &::after {
     content: " ";
     display: block;
@@ -58,5 +62,29 @@ export const Navigation = styled.ul`
     &:active {
       border-bottom: 1px solid ${MAIN_THEME.pink100};
     }
+  }
+`;
+
+export const BarsBtn = styled.button`
+  all: unset;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-end;
+
+  span {
+    display: block;
+    background: linear-gradient(90deg, #d23bff 35.94%, #38fbff 100%);
+    height: 4px;
+    width: 100%;
+    border-radius: 2px;
+  }
+
+  span:last-of-type {
+    width: 47%;
   }
 `;
