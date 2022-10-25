@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  background-color: #0f0722;
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 1500px;
+  margin: 0 auto;
+}
