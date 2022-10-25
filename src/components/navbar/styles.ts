@@ -56,7 +56,7 @@ export const Navigation = styled.ul`
 
     &:hover,
     &:active {
-      border-bottom: 2px solid ${MAIN_THEME.pink100};
+      border-bottom: 1px solid ${MAIN_THEME.pink100};
     }
   }
 `;
