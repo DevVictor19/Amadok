@@ -81,6 +81,10 @@ export const AboutInfo = styled.div`
     p:last-of-type {
       margin: 16px 0 32px 16px;
     }
+
+    button {
+      margin-left: 24px;
+    }
   }
 `;
 
