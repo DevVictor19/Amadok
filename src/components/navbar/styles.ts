@@ -35,7 +35,7 @@ export const Container = styled.header`
     font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 2rem;
     line-height: 38px;
     color: ${MAIN_THEME.pink100};
   }
@@ -48,7 +48,7 @@ export const Navigation = styled.ul`
   font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
-  font-size: 24px;
+  font-size: 1.5rem;
 
   li a {
     text-decoration: none;

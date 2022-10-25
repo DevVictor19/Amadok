@@ -7,7 +7,7 @@ export const Contaier = styled.button`
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 1.5rem;
   line-height: 33px;
 
   max-width: 256px;
