@@ -26,6 +26,7 @@ export const AboutWrapper = styled.div`
 `;
 
 export const AboutInfo = styled.div`
+  position: relative;
   display: flex;
   flex-direction: column;
 
@@ -59,13 +60,13 @@ export const AboutInfo = styled.div`
       content: " ";
       display: block;
       background: linear-gradient(#d23bff 35.94%, #38fbff 100%);
-      height: 85%;
+      height: 90%;
       width: 2px;
       border-radius: 2px;
 
       position: absolute;
-      left: 24px;
-      bottom: -60%;
+      left: 0;
+      bottom: 0;
     }
 
     h1 {
