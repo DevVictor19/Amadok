@@ -19,6 +19,18 @@ export const Container = styled.header`
   align-items: center;
   justify-content: space-between;
 
+  &::after {
+    content: " ";
+    display: block;
+    background: linear-gradient(90deg, #d23bff 35.94%, #38fbff 100%);
+    height: 1px;
+    width: 100%;
+
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+  }
+
   h1 {
     font-family: "Roboto";
     font-style: normal;

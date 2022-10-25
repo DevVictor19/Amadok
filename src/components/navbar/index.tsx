@@ -20,7 +20,7 @@ const links = [
 export function NavBar() {
   return (
     <S.Container>
-      <h1>Navbar</h1>
+      <h1>Tech Sisters</h1>
       <nav>
         <S.Navigation>
           {links.map((link) => (
