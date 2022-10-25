@@ -7,6 +7,7 @@ export const Container = styled.header`
   left: 0;
   right: 0;
   margin: 0 auto;
+  z-index: 98;
 
   width: 100%;
   max-width: 1500px;

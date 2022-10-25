@@ -6,7 +6,7 @@ export const Container = styled.div`
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: 1;
+  z-index: 99;
 
   background-color: rgba(15, 7, 34, 0.8);
   backdrop-filter: blur(1px);
