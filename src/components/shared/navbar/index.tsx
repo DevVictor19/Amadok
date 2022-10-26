@@ -21,7 +21,7 @@ export function NavBar({ handleLinkClick }: IProps) {
           <a href="#schedule">Cronograma</a>
         </li>
         <li onClick={handleClick}>
-          <a href="#subscribe">Inscrição</a>
+          <a href="#subscription">Inscrição</a>
         </li>
       </S.Navigation>
     </nav>
