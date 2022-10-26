@@ -1,7 +1,7 @@
 import React from "react";
-import { GradientBox } from "../shared/gradient-box";
 
 import * as S from "./styles";
+import { GradientBox } from "../shared/gradient-box";
 
 export function Schedule() {
   return (
