@@ -11,7 +11,7 @@ export function Subscription() {
         <li>
           <p>
             O curso ocorrerá no dia 05 de novembro de 2022 no campus Uninassau
-            Pituba, localizado na Rua dos Marçons, 364.
+            Pituba, localizado na Rua dos Maçons, 364.
           </p>
         </li>
         <li>
