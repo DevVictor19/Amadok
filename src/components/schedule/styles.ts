@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { MAIN_THEME } from "../../theme/main";
 
-export const Container = styled.div`
+export const Container = styled.section`
   background-color: ${MAIN_THEME.darkBlue};
   padding: 56px 64px 80px;
 
