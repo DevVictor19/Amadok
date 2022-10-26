@@ -71,4 +71,10 @@ export const ScheduleList = styled.ul`
     margin: 0 auto;
     height: auto;
   }
+
+  @media screen and (max-width: 481px) {
+    li p {
+      font-size: 1.125rem;
+    }
+  }
 `;
