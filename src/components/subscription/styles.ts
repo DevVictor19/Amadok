@@ -71,7 +71,7 @@ export const Container = styled.section`
       line-height: 38px;
     }
 
-    li p {
+    ul li p {
       font-size: 1.125rem;
     }
   }
