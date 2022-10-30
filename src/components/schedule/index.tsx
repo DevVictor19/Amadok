@@ -11,6 +11,12 @@ export function Schedule() {
         <S.ScheduleList>
           <li>
             <p>
+              Ocorrerá no dia 05 de novembro de 2022 no campus Uninassau Pituba,
+              localizado na Rua dos Maçons, 364.
+            </p>
+          </li>
+          <li>
+            <p>
               O curso terá a duração de duas horas. começando as 9:00 da manhã
               com previsão de duração até às 11:00 horas.
             </p>
