@@ -76,3 +76,13 @@ export const Container = styled.section`
     }
   }
 `;
+
+export const Actions = styled.div`
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+`;
