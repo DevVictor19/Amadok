@@ -11,7 +11,7 @@ export function Schedule() {
         <S.ScheduleList>
           <li>
             <p>
-              Ocorrerá no dia 05 de novembro de 2022 no campus Uninassau Pituba,
+              Ocorrerá no dia 12 de novembro de 2022 no campus Uninassau Pituba,
               localizado na Rua dos Maçons, 364.
             </p>
           </li>
