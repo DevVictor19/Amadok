@@ -1,7 +1,6 @@
 import React from "react";
 
 import amadokImg from "../../assets/amadok.png";
-import { Button } from "../shared/button";
 import { GradientBox } from "../shared/gradient-box";
 
 import * as S from "./styles";
@@ -29,7 +28,6 @@ export function About() {
               desenvolver conteúdos nela, auxiliando e tirando dúvidas que
               poderão surgir durante toda a duração do curso.
             </p>
-            <Button>Conheça</Button>
           </S.AboutInfo>
           <S.AboutImg>
             <img
