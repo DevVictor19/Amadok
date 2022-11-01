@@ -35,7 +35,6 @@ export const ScheduleList = styled.ul`
   flex-direction: column;
   gap: 24px;
   padding-left: 32px;
-  height: 430px;
 
   &::after {
     content: " ";

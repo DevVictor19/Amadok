@@ -17,7 +17,7 @@ export function Schedule() {
           </li>
           <li>
             <p>
-              O curso terá a duração de duas horas. começando as 9:00 da manhã
+              O curso terá a duração de duas horas. Começando as 9:00 da manhã
               com previsão de duração até às 11:00 horas.
             </p>
           </li>
